@@ -1,0 +1,158 @@
+{
+  "districts": [
+    {
+      "uid": 12,
+      "name": "Ajapnyak",
+      "n_buildings": 100,
+      "population": 109600
+    },
+    {
+      "uid": 1,
+      "name": "Davitashen",
+      "n_buildings": 100,
+      "population": 42207
+    },
+    {
+      "uid": 2,
+      "name": "Arabkir",
+      "n_buildings": 100,
+      "population": 117704
+    },
+    {
+      "uid": 3,
+      "name": "Qanaqer zeuytun",
+      "n_buildings": 100,
+      "population": 74400
+    },
+    {
+      "uid": 4,
+      "name": "Nor-norq",
+      "n_buildings": 100,
+      "population": 129400
+    },
+    {
+      "uid": 5,
+      "name": "Norq marash",
+      "n_buildings": 100,
+      "population": 11300
+    },
+    {
+      "uid": 6,
+      "name": "Kentron",
+      "n_buildings": 100,
+      "population": 126600
+    },
+    {
+      "uid": 7,
+      "name": "Erebuni",
+      "n_buildings": 100,
+      "population": 126300
+    },
+    {
+      "uid": 8,
+      "name": "Shengavit",
+      "n_buildings": 100,
+      "population": 137400
+    },
+    {
+      "uid": 9,
+      "name": "Malatia",
+      "n_buildings": 100,
+      "population": 142600
+    },
+    {
+      "uid": 10,
+      "name": "Avan",
+      "n_buildings": 100,
+      "population": 53100
+    },
+    {
+      "uid": 11,
+      "name": "Nubarashen",
+      "n_buildings": 100,
+      "population": 9700
+    }
+  ],
+  "compute_inf_prob_arguments": {
+    "school": {
+      "vol": 2,
+      "rlwr": 2,
+      "area": 2500,
+      "height": 3,
+      "mask_out": 0.3,
+      "mask_in": 0.6
+    },
+    "university": {
+      "vol": 2,
+      "rlwr": 2,
+      "area": 7000,
+      "height": 3,
+      "mask_out": 0.3,
+      "mask_in": 0.6
+    },
+    "kindergarten": {
+      "vol": 2,
+      "rlwr": 2,
+      "area": 1000,
+      "height": 3,
+      "mask_out": 0.3,
+      "mask_in": 0.6
+    },
+    "work": {
+      "vol": 2,
+      "area": 1200,
+      "height": 3,
+      "rlwr": 2,
+      "mask_out": 0.3,
+      "mask_in": 0.6
+    },
+    "cafe": {
+      "vol": 2,
+      "area": 450,
+      "height": 4,
+      "rlwr": 3,
+      "mask_out": 0,
+      "mask_in": 0
+    },
+    "church": {
+      "vol": 1,
+      "area": 300,
+      "height": 15,
+      "rlwr": 2,
+      "mask_out": 0.3,
+      "mask_in": 0.6
+    },
+    "sport": {
+      "vol": 2,
+      "area": 1000,
+      "height": 4,
+      "rlwr": 2,
+      "mask_out": 0,
+      "mask_in": 0
+    },
+    "shop": {
+      "vol": 3,
+      "area": 550,
+      "height": 5,
+      "rlwr": 3,
+      "mask_out": 0.3,
+      "mask_in": 0.6
+    },
+    "building": {
+      "vol": 2,
+      "area": 70,
+      "height": 3,
+      "rlwr": 3,
+      "mask_out": 0,
+      "mask_in": 0
+    },
+    "hospital": {
+      "vol": 2,
+      "area": 30,
+      "height": 3,
+      "rlwr": 3,
+      "mask_out": 0.8,
+      "mask_in": 0.8
+    }
+  }
+}
